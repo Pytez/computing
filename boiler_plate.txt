@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>(Computer Scientist Name)</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Navigation Bar -->
+    <div class="header">
+        <nav>
+            <h1 class="logo"><a href="index.html">Historical Figures</h1>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="tim.html">Tim Bernes-Lee</a></li>
+                <li><a href="guido.html">Guido Van Rossum</a></li>
+                <li><a href="linus.html" class="current-page">Linus Torvalds</a></li>
+            </ul>
+        </nav>
+    </div>
+
+    <!-- Information -->
+    <div class="content">
+        <div class="computer-scientist">
+
+            <h2>Background Story</h2>
+            <p></p>
+            
+            <h2>Contributions to Computing</h2>
+    
+            <div class="contributions">
+                <h3></h3>
+                <p></p>
+
+                <h3></h3>
+                <p></p>
+
+                <h3></h3>
+                <p></p>
+
+            
+                <h3></h3>
+                <audio src="" controls></audio>
+                <!-- <video src="" controls</video>-->
+            </div>
+        </div>
+
+        <div class="images">
+            <img src="" alt="">
+            <img src="" alt="">
+            <img src="" alt="">
+            <img src="" alt="">
+            <img src="" alt="">
+        </div>
+    </div> 
+    
+</body>
+</html>
